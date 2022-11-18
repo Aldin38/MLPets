@@ -2,7 +2,7 @@ import './assets/styles/styles.scss';
 
 function App() {
   return (
-    <div></div>
+    <div>Pola cijelo</div>
   );
 }
 
